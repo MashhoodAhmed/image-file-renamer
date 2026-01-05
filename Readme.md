@@ -18,8 +18,8 @@ product_003.png
 No external libraries are required.
 
 Clone the repository:
-```bash
 git clone https://github.com/your-username/image-file-renamer.git
+
 cd image-file-renamer
 
 
